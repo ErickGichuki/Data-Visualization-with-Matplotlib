@@ -1,4 +1,4 @@
-# Data Visualization with Matplotib
+# Data Visualization with Matplotlib
 
 ## Using Airbnb Data
 
